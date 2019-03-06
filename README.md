@@ -9,7 +9,7 @@ The user may enter any burger name to add it to the menu. This also adds the new
 
 ## Demo
 
-The demo of the burger eating application can be found [here](https://git.heroku.com/safe-reef-46006.git).
+The demo of the burger eating application can be found [here](https://fast-forest-62641.herokuapp.com/).
 
 ## Installation
 
